@@ -1,3 +1,3 @@
 # HotelManagementSystem
 #TigerHotel
-only Me, Kritam, Maria, Surakshya are allowed to view It.
+only Me, Kritam, Maria, Surakshya are allowed to view It and commit it.
